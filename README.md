@@ -1,6 +1,6 @@
-# mobilehomework
+# Mobile HomeWork
 
-A new Flutter project.
+A Flutter project for Mobile Homework
 
 ## Getting Started
 
